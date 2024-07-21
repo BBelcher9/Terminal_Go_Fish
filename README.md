@@ -45,6 +45,7 @@ A command-line version of the classic card game Go Fish, implemented in Python.
 Run the game by executing the Python script:
 ```bash
 python go_fish.py
+```
 
 ## Game Rules
 
