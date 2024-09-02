@@ -1,6 +1,7 @@
 # TerminalGoFish
 
 A command-line version of the classic card game Go Fish, implemented in Python.
+Note: This was purposely built without global variables as a challenge to encourage passing values, with the exception of the "NEWDECK" variable. 
 
 ## Table of Contents
 
